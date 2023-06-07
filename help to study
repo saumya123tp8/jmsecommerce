@@ -1,0 +1,18 @@
+network request called with the help of axios
+react toastify is used for showing pop ups
+cors package helps remove when we run two server simul  
+it removes cross origin errors
+
+here we use concurruntely provide by npm package which is is used to run two server simultaneous
+we can use proxy as well in package.json
+
+
+
+context api helps to manage global state use can use redux tool kit as well
+here we try to rremove loging and register pafe for authenticated user and replace it with log out
+context api is much popukar now we can create a large scale app also
+
+
+
+if we get photo it can not be directly accesed if we try to do so then it take s string value not photo so install a package  npm js package
+"" express-formidable   ""
